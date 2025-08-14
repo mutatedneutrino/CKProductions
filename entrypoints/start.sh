@@ -1,2 +1,0 @@
-CKPRODUCTION build
-CKPRODUCTION start
