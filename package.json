@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "business website",
+  "keywords": [],
+  "homepage": "https://github.com/mutatedneutrino/CKProductions#readme",
+  "bugs": {
+    "url": "https://github.com/mutatedneutrino/CKProductions/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutatedneutrino/CKProductions.git"
+  },
+  "license": "ISC",
+  "author": "Victoria Dudley",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
