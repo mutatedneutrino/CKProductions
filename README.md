@@ -10,9 +10,11 @@ tried to upload background_site.png as the site background but was facing some i
 28/08/25 there hasn't been time to do any more work on this, but realised i never pushed the work done on 27/08 so pushed today
 
 08/09/25 hoping to start this project back up this week, realsied i never checked the site itself after the push on 28/08, turns out the image upload works fine through git pages! progress will hopefully be made soon
-  I came back to this this evening, the background is now working and SHOULD be fixed, no scrolling,  a header logo has been added. I did try to add social links to the site, the links work, but I am currently struggling to make them sit where I want them to but it is so very late so I will return next I have the time
+  I came back to this this evening, the background is now working and SHOULD be fixed, no scrolling,  a header logo has been added and favicon is working fine. I did try to add social links to the site, the links work, but I am currently struggling to make them sit where I want them to but it is so very late so I will return next I have the time
     UPCOMING TASKS:
       - move social links to correct location
       - make sure header logo stays centered
       - add centre square for maintenece message
       - make the README.md look a bit better
+      
+<img width="1922" height="585" alt="image" src="https://github.com/user-attachments/assets/e7333470-8445-4abd-b00b-0c6ff7056285" />
