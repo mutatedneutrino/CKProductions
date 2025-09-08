@@ -16,5 +16,6 @@ tried to upload background_site.png as the site background but was facing some i
       - make sure header logo stays centered
       - add centre square for maintenece message
       - make the README.md look a bit better
+      - redo the logo to match text thickness in heading logo
       
 <img width="1922" height="585" alt="image" src="https://github.com/user-attachments/assets/e7333470-8445-4abd-b00b-0c6ff7056285" />
