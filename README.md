@@ -4,7 +4,7 @@ Eventually there will be a need for art assets to be uploaded, most of these wil
 
 website hosted through Infomaniak using a Node.js blank project
 
-27/08/25 the website is up! and I'm able to put some simple text on the page that is reflected on the site proper. The next step is to make a more professional looking maintenence screen to a) look compentant and b) feed any users into an upcoming "Salesfirce Digital Experience" project I'll be wokring on as part of my portfolio. I created the background (/assets/background_site.png) as well as a clean version of the logo and and site icon in #aac6cb (/assets/logopng and /assets/site icon 2.png) all three made in Inkscape so I can easily test colours
+27/08/25 the website is up! and I'm able to put some simple text on the page that is reflected on the site proper. The next step is to make a more professional looking maintenence screen to a) look compentant and b) feed any users into an upcoming "Salesfirce Digital Experience" project I'll be working on as part of my portfolio. I created the background (/assets/background_site.png) as well as a clean version of the logo and and site icon in #aac6cb (/assets/logo.png and /assets/site icon 2.png) all three made in Inkscape so I can easily test colours
 tried to upload background_site.png as the site background but was facing some image loading issues on localhost, tried moving background_site.png to root but no dice, tried a smaller picture (/me.png) and still nothing, will return
 
 28/08/25 there hasn't been time to do any more work on this, but realised i never pushed the work done on 27/08 so pushed today
