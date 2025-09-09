@@ -12,6 +12,7 @@
 	}
 	.top-header div {
 		width:2.5%;
+		height: 5%
 		float:right;
 		position:relative;
 		top:10%;
@@ -51,7 +52,7 @@
 		background-color:#313d49d9; 
 		margin:auto;
 	}
-	a:link {
+	a:href {
 		color: #313d49d9;
 		background-color: transparent;
 		text-decoration: none;
