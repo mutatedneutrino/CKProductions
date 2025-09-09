@@ -11,10 +11,10 @@
 		width:100%;
 	}
 	.top-header div {
+		position:relative;
 		width:2.5%;
 		height: 5%;
 		float:right;
-		position:relative;
 		top:10%;
 		right:0;
 	}
