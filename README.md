@@ -1,7 +1,12 @@
 <html lang="en">
-
-
-<h2>Vicki's Adventures in Coding</h2>
+ 
+<body>
+ 
+<div> 
+ <img width="70" height="70" alt="site_icon" align="right" src="https://github.com/user-attachments/assets/327081a4-8b92-43b9-8f69-ebbff859b301">
+ </br>
+ <h2>Vicki's Adventures in Coding</h2>
+</div
 
 <h4><i>A Website from Scratch</i></h4>
 
@@ -36,29 +41,30 @@ Website hosted through <a href="https://www.infomaniak.com/en">Infomaniak</a> us
   <b>28/08/25</b>
 </br>
     There hasn't been time to do any more work on this, but realised i never pushed the work done on 14/08 so pushed today
-</p>
+ </p>
 
-<p>
-  <b>08/09/25</b>
-  </br>
-    Hoping to start this project back up this week, realsied I'd never checked the site itself after the push on 28/08, turns out the image upload works fine through GitHub pages! Progress will hopefully be made soon
-    </br></br>
-    I came back to this this evening, the background is now working and SHOULD be fixed, no scrolling,  a header logo has been added and favicon is working fine. I did try to add social links to the site, the links work, but I am currently struggling to make them sit          where I want them to but it is so very late so I will return next I have the time
-      <b>UPCOMING TASKS:  </b>    
-          <ul>
-            <li>move social links to correct location</li>
-            <li>make sure header logo stays centered</li>
-            <li>add centre square for maintenece message</li>
-            <li><del>make the README.md look a bit better</del></li>
-            <li>redo the logo to match text thickness in heading logo</li>
-          </ul> 
+  <p>
+    <b>08/09/25</b>
+    </br>
+      Hoping to start this project back up this week, realsied I'd never checked the site itself after the push on 28/08, turns out the image upload works fine through GitHub pages! Progress will hopefully be made soon
+      </br></br>
+      I came back to this this evening, the background is now working and SHOULD be fixed, no scrolling,  a header logo has been added and favicon is working fine. I did try to add social links to the site, the links work, but I am currently struggling to make them sit          where I want them to but it is so very late so I will return next I have the time
+        <b>UPCOMING TASKS:</b>    
+            <ul>
+              <li>move social links to correct location</li>
+              <li>make sure header logo stays centered</li>
+              <li>add centre square for maintenece message</li>
+              <li><del>make the README.md look a bit better</del></li>
+              <li>redo the logo to match text thickness in heading logo</li>
+            </ul> 
       
-<img width="1922" height="585" alt="image" src="https://github.com/user-attachments/assets/e7333470-8445-4abd-b00b-0c6ff7056285" />
+ <img width="1922" height="585" alt="image" src="https://github.com/user-attachments/assets/e7333470-8445-4abd-b00b-0c6ff7056285" />
 
-</p>
+  </p>
 
-<p>
-  <b>09/09/25</b>
-  </br>
-    Tidied up the README.md somewhat, I was hoping to colour code some of the test to make a more clear breakdown of my journalling for my dyselxia (large blocks of white on black or vice versa can blur) but alas. This is at least more readable than before
-</p
+  <p>
+    <b>09/09/25</b>
+    </br>
+      Tidied up the README.md somewhat, I was hoping to colour code some of the test to make a more clear breakdown of my journalling for my dyselxia (large blocks of white on black or vice versa can blur) but alas. This is at least more readable than before
+  </p>
+</body>
