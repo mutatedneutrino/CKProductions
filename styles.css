@@ -18,6 +18,13 @@
 		top:10%;
 		right:0;
 	}
+	.logo-header {
+		position:fixed;
+		margin:auto;
+		width:10%;
+		height:10%;
+		display:block;
+	}
 	.footer {
 		position:fixed;
 		bottom:0;
@@ -47,6 +54,14 @@
 		right:1%;
 		width:3%;
 		height:6%;
+	}	
+	.copywrite {
+		position:fixed;
+		bottom:1%;
+		left:1%;
+		font-family:courier;
+		font-size: 10pt;
+		color:#313d49d9;
 	}	
 	.site-frame {
 		background-color:#313d49d9; 
