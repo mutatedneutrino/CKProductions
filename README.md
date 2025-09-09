@@ -14,7 +14,9 @@
 </br>
 
 I have never made a website before but I also haven't been doing any true coding in a long long time, so this is going to be a mess of a project history as I slowly cobble together the basics I need for a website and work from there.
-</br>
+ </br> </br>
+There is an excessive amount of deployments, unfortunately anything including images will not load on my local host to test before posting, so you are getting a full view of everything I try
+ </br>
 
 <hr>
 
