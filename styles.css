@@ -19,7 +19,7 @@
 		right:1%;
 	}
 	.logo-header {
-		position:fixed;
+		position:relative;
 		width:10%;
 		height:10%;
 		margin:auto;
