@@ -19,11 +19,12 @@
 		right:5%;
 	}
 	.logo-header {
-		position:relative;
+		position:fixed;
 		width:10%;
-		height:15%;
+		height:10%;
 		left:50%;
 		right:50%;
+		top:5%;
 	}
 	.footer {
 		position:fixed;
