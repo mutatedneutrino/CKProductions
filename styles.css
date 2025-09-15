@@ -22,8 +22,9 @@
 		position:fixed;
 		width:5%;
 		height:5%;
-		margin:auto;
-		display:block;
+		left:50%;
+		right:50%;
+		top:10%;
 	}
 	.footer {
 		position:fixed;
