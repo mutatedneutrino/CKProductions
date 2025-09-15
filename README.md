@@ -25,7 +25,7 @@ Eventually there will be a need for art assets to be uploaded, most of these wil
  <ul>
   <li>LinkedIn icon from <a href="https://brand.linkedin.com/downloads">LinkedIn Brand Guidlines</a></li>
   <li>GitHub icon from <a href="https://github.com/logos">GitHub Logos and Usage</a></li>
-  <li>BlueSky icon from <a href="https://bsky.social/about/blog/press-faq">GitHub Logos and Usage</a></li> (I did crop the logo so I had to futz less)
+  <li>BlueSky icon from <a href="https://bsky.social/about/blog/press-faq">Bluesky for Journalists</a></li> (I did crop the logo so I had to futz less)
 </ul> 
 
 <hr>
