@@ -57,7 +57,7 @@ Website hosted through <a href="https://www.infomaniak.com/en">Infomaniak</a> us
             <ul>
               <li><del>move social links to correct location</del></li>
               <li><del>make sure header logo stays centered</del></li>
-              <li>add centre square for maintenance message</li>
+              <li><del>add centre square for maintenance message</del></li>
               <li><del>make the README.md look a bit better</del></li>
               <li>redo the logo to match text thickness in heading logo</li>
             </ul> 
@@ -79,9 +79,9 @@ Website hosted through <a href="https://www.infomaniak.com/en">Infomaniak</a> us
          </br></br>
          <b>UPCOMING TASKS:</b>    
                 <ul>
-                   <li>WHERE HAS MY LOGO GONE</li>
-                   <li>minor fixes on footer and right action tabs</li>
-                   <li>add centre square for maintenance message</li>
+                   <li><del>WHERE HAS MY LOGO GONE</del></li>
+                   <li><del>minor fixes on footer and right action tabs</del></li>
+                   <li><del>add centre square for maintenance message</del></li>
                    <li>link my Salesforce Dev Org to this site</li>
                    <li>link this site to my Salesforce Dev org</li>
                    <li>redo the logo to match text thickness in heading logo</li>
@@ -94,18 +94,48 @@ Website hosted through <a href="https://www.infomaniak.com/en">Infomaniak</a> us
              </br></br>
              <b>FUTURE VICKI PROBLEMS:</b>    
                 <ul>
-                   <li>make site work flexibly on multiple screen sizes</li>
-                   <li>how hard is it to setup sub pages for projects etc</li>
+                   <li><del>make site work flexibly on multiple screen sizes</del> kinda works - not happy with overly long or overly tall screens</li>
+                   <li><del>how hard is it to setup sub pages for projects etc</del></li>
                    <li>how hard is it to make it compatible with a mobile site</li>
               </ul> 
               </br>
            I may return to these midway through the Salesforce Digital Experience if I want a Dark Souls esque break, but otherwise I should be happy to proceed soon!
   </p>
 
-<img width="1842" height="966" alt="image" src="https://github.com/user-attachments/assets/9031a9da-c7ce-460c-9f42-5a3a6c36bdb5" />
-
-<img width="1871" height="968" alt="image" src="https://github.com/user-attachments/assets/25ecb435-d30b-484a-b01b-b9bc845083d0" />
-
+  <p>
+        <b>21/02/2026</b>
+    </br>
+        It has been awhile, whilst I was building this site I was very lucky to be able to get a job back in November and my brain has been focussed on getting up to speed with everything to do 
+        with the new job! How exciting.
+    </br></br>
+        This weekend I think I've finally reached a point in this new job where I think I can start looking back at this project and I'm while waiting for the Salesforce org to expire (i
+        fucked up my auth and can't get back in right now) I figured I'd come back and try and box off some of my other tasks.
+    </br></br>
+        I figured out how to make the header work nicely - looking back I was trying to put the logo header inside the socials header but at the top so just a bunch of small mistakes that only needed me to take a step back to figure out. the footer I've decided to make smaller and managed to fix the formatting of those footer links.
+    </br></br>
+        haaving multiple pages on my site turns out was easier than I expected. Although no my site has subpages with .html in them and I'm not sure how to fix that, a future job I think - but at least the POC is up and running - this README.md is going to be kept on the site as I think I'm in a position where I can link the site itself on my LinkedIn, maybe thats a bad idea but hey. But a thought i'm having - is this all a bit too grey? do I need to modify the colours slightly?
+  </p>
+        <img width="1842" height="966" alt="image" src="https://github.com/user-attachments/assets/9031a9da-c7ce-460c-9f42-5a3a6c36bdb5" />
+        <img width="1871" height="968" alt="image" src="https://github.com/user-attachments/assets/25ecb435-d30b-484a-b01b-b9bc845083d0" />
+<p>
+    <b>UPCOMING TASKS:</b>    
+        <ul>
+            <li>link my Salesforce Dev Org to this site</li>
+            <li>link this site to my Salesforce Dev org</li>
+            <li>redo the logo to match text thickness in heading logo</li>
+            <li>maybe be extra and make a maintenance image - haven't decided</li>
+            <li>consider changing colour scheme - ask friends for opinions</li>
+            <li>figure out how to remove .html from site name</li>
+        </ul>
+    But this does also change landscape of my more excessive goals see below:
+             <b>FUTURE VICKI PROBLEMS:</b>    
+                <ul>
+                   <li><del>make site work flexibly on multiple screen sizes</del> kinda works - not happy with overly long or overly tall screens</li>
+                   <li><del>how hard is it to setup sub pages for projects etc</del> need to remove .html but progress!</li>
+                   <li>how hard is it to make it compatible with a mobile site</li>
+                   <li>I want to use this as an art portfolio as well - do I need a seperate place to store image files? I don't really want them in Git</li>
+              </ul> 
+</p>
 
 
   <hr>
