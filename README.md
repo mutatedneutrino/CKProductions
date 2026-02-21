@@ -102,6 +102,11 @@ Website hosted through <a href="https://www.infomaniak.com/en">Infomaniak</a> us
            I may return to these midway through the Salesforce Digital Experience if I want a Dark Souls esque break, but otherwise I should be happy to proceed soon!
   </p>
 
+<img width="1842" height="966" alt="image" src="https://github.com/user-attachments/assets/9031a9da-c7ce-460c-9f42-5a3a6c36bdb5" />
+
+<img width="1871" height="968" alt="image" src="https://github.com/user-attachments/assets/25ecb435-d30b-484a-b01b-b9bc845083d0" />
+
+
 
   <hr>
 <h4>The Salesforce Digital Experience Experience</h4>
