@@ -5,6 +5,12 @@
 	dark grey - #2b3541
 	blue - #aac6cb
 */
+
+@font-face {
+    font-family: 'Thinman'; /*a name to be used later*/
+    src: url('http://domain.example/fonts/font.ttf'); /*URL to font*/
+}
+
 	.body   {
 		background-image: url('/assets/background_site.png');
 		background-repeat: no-repeat;
@@ -36,8 +42,8 @@
 	.content {
 		position:absolute;
 		background-color:#2b3541;
-		height:80%;
-		width:60%;
+		height:auto;
+		width:80%;
 		left: 50%;
 		transform:translate(-50%);
 	}
@@ -45,11 +51,65 @@
 	.content p {
 		position:relative;
 		font-family:courier;
-		font-size:30pt;
+		font-size:13pt;
+		color:#d2d5d7;
+		text-align:justify;
+	}
+	
+	.content ul {
+		position:relative;
+		font-family:courier;
+		font-size:13pt;
+		color:#d2d5d7;
+		text-align:justify;
+	}
+
+	.content a {
+		position:relative;
+		font-family:courier;
+		font-size:13pt;
 		color:#c1c6ce;
+	}
+
+	.header1 {
+		position:relative;
+		font-family:courier;
+		font-size:20pt;
+		color:#c1c6ce;
+		text-align:justify;
 		font-weight:bolder;
-		text-align:center
-		
+	}
+
+	.header2 {
+		position:relative;
+		font-family:courier;
+		font-size:15pt;
+		color:#c1c6ce;
+		text-align:justify;
+		font-weight:bold;
+	}
+
+	.header-links {
+		position:relative;
+		height:10%;
+		width:40%;
+		left: 50%;
+		transform:translate(-50%);
+		padding-top:2%
+	}
+
+	.header-links td {
+		height: 50px; 
+    	width: 50px;
+	}
+
+	.header-links a {
+		font-family: 'Thinman';
+		color:#aac6cb;
+		font-size:15pt;
+		text-decoration:none;
+		text-align: center;
+		vertical-align: middle
 	}
 
 	.footer {
@@ -63,7 +123,7 @@
 		bottom:0px;
 		left:0px;
 		width:100%;
-		height:12.5%;
+		height:9%;
 	}
 	.footer div {
 		font-family:courier;
@@ -81,7 +141,7 @@
 		bottom:1%;
 		right:1%;
 		width:auto;
-		height:6%;
+		height:4%;
 	}	
 	.copywrite {
 		position:fixed;
@@ -95,22 +155,22 @@
 		background-color:#313d49d9; 
 		margin:auto;
 	}
-	a:href {
+	.footer a {
 		color: #313d49d9;
 		background-color: transparent;
 		text-decoration: none;
 	}
-	a:visited {
+	.footer a:visited {
 		color: #313d49d9;
 		text-decoration: underline;
 	}
-	a:hover {
+	.footer a:hover {
 		color: #2b3541ff;
 		background-color: transparent;
 		text-decoration: underline;
 	}
-	a:active {
+	.footer a:active {
 		color: black;
 		background-color: transparent;
-		text-decoration: underline;
+		text-decoration:none;
 	}

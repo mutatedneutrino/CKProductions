@@ -6,7 +6,7 @@
  <img width="70" height="70" alt="site_icon" align="right" src="https://github.com/user-attachments/assets/327081a4-8b92-43b9-8f69-ebbff859b301">
  </br>
  <h2>Vicki's Adventures in Coding</h2>
-</div
+</div>
 
 <h4>A Website from Scratch</h4>
 
